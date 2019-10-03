@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="action_settings">Settings</string>
+    <string name="books">Książki</string>
+    <string name="authors">Autorzy</string>
+    <string name="category">Kategorie</string>
+    <string name="header">Moja Biblioteczka</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
